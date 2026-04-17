@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Sunbird
+Comment=A calendar application for managing events and appointments.
+GenericName=Calendar
+Exec=/opt/sunbird/sunbird %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Version=0.9
+Icon=sunbird
+Categories=Network;Office;GTK;
+MimeType=text/calendar;x-scheme-handler/webcal;x-scheme-handler/webcals;
+StartupWMClass=sunbird-default
+StartupNotify=true
+Keywords=Calendar;Event;Reminder;
