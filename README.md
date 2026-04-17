@@ -17,10 +17,12 @@ combination of features:
 # History
 
 [October 1998: Sunbird begins life as 'Zulu'](https://web.archive.org/web/19991011010018/http://www.mozilla.org/projects/calendar/)
+
 - With the stated aim of supporting iCalendar (still one of its huge advantages).
 - "Zulu is the next-generation calendar client currently under development for Netscape Communicator."
 
 [December 2001: 'Zulu' is renamed 'Mozilla Calendar'](https://web.archive.org/web/20011211125739/http://www.mozilla.org/projects/calendar/)
+
 According to the webpage from the time, it still was not a 'released' product, and needed to be compiled by users.
 Stated aims at this point:
 - "The Mozilla Calendar project is meant to create an open source, standards based calendar solution."
@@ -33,6 +35,7 @@ web interface, accessible via Firefox, or perhaps the entire calendar ran as a
 Firefox extension.
 
 [August 2002: 'Mozilla Calendar' adds Windows and Mac support](https://web.archive.org/web/20020802223115/http://www.mozilla.org/projects/calendar/)
+
 ![Screenshot 1](https://web.archive.org/web/20020428144010if_/http://mozilla.org:80/projects/calendar/images/mozilla_calendar.jpg)
 ![Screenshot 2](https://web.archive.org/web/20020822154815if_/http://mozilla.org:80/projects/calendar/images/mozilla_newevent.gif)
 
@@ -74,11 +77,13 @@ extension.  The first mention I could find of it was in April 2006, when
 it started to appear below the Sunbird project on the Mozilla website.
 
 [2007: Lightning starts to be prioritised](https://web.archive.org/web/20070528183038/http://www.mozilla.org/projects/calendar/sunbird/index.html)
+
 In a bold move, Mozilla start to position Lightning above Sunbird on their
 official website.  Though both projects are still in development under
 the umbrella 'Mozilla Calendar' project.
 
 [April 2010: Mozilla announce Sunbird's 'last version'](https://web.archive.org/web/20100404032000/http://www.mozilla.org/projects/calendar/)
+
 "This is the last public Sunbird release by the Calendar Project.
 We recommend upgrading to Thunderbird 3 and Lightning 1.0 beta1."
 
@@ -95,10 +100,11 @@ which integrates with Thunderbird.
 
 # Quality
 
-The reason Sunbird is so good is that it was in active development for 15 years
-or more, by whole teams of developers and designers.  This is a level or resources
-not typical of open source projects, and it shows in the quality of the product, which
-is still one of the best desktop calendars for Linux today.
+Sunbird's excellence is a result of the 15 years or more during which it was
+actively developed by whole teams of programmers and designers.  This abundance
+of resources is not typical of open source projects, and it shows in the
+quality of the product, which is still one of the best desktop calendars for
+Linux today.
 
 # Installation
 
@@ -107,4 +113,4 @@ a Linux system.  It pulls the last stable version of Sunbird from the Mozilla
 archives, checks a SHA256 hash to verify the integrity of the download, and
 then extracts the files, installs the application, icons and desktop entry.
 
-Requirements: gtk2
+Library requirements: gtk2
