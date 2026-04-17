@@ -1,5 +1,7 @@
 # Sunbird: My favourite calendar program
 
+![Icon](./usr/share/icons/hicolor/256x256/apps/sunbird.png)
+
 I've been using Mozilla products as my calendar system for many years, but sadly
 their flagship calendar product, Sunbird, was discontinued in 2010.
 Sunbird was and is a really nice calendar solution because it has the following
